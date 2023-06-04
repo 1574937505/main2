@@ -25,6 +25,8 @@ public class Main {
                 break;
             }
         }
+        //输出结果
+        System.out.println("舀取" + result[0] + "次" + spoon7 + "两勺子，舀取" + result[1] + "次" + spoon11 + "两勺子。");
 
         return result;
     }
